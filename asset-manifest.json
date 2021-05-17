@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/counterredux/static/css/main.e7ff404a.chunk.css",
+    "main.js": "/counterredux/static/js/main.47cb171d.chunk.js",
+    "main.js.map": "/counterredux/static/js/main.47cb171d.chunk.js.map",
+    "runtime-main.js": "/counterredux/static/js/runtime-main.87d48318.js",
+    "runtime-main.js.map": "/counterredux/static/js/runtime-main.87d48318.js.map",
+    "static/js/2.52a19a2c.chunk.js": "/counterredux/static/js/2.52a19a2c.chunk.js",
+    "static/js/2.52a19a2c.chunk.js.map": "/counterredux/static/js/2.52a19a2c.chunk.js.map",
+    "static/js/3.bb06fcc8.chunk.js": "/counterredux/static/js/3.bb06fcc8.chunk.js",
+    "static/js/3.bb06fcc8.chunk.js.map": "/counterredux/static/js/3.bb06fcc8.chunk.js.map",
+    "index.html": "/counterredux/index.html",
+    "static/css/main.e7ff404a.chunk.css.map": "/counterredux/static/css/main.e7ff404a.chunk.css.map",
+    "static/js/2.52a19a2c.chunk.js.LICENSE.txt": "/counterredux/static/js/2.52a19a2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.87d48318.js",
+    "static/js/2.52a19a2c.chunk.js",
+    "static/css/main.e7ff404a.chunk.css",
+    "static/js/main.47cb171d.chunk.js"
+  ]
+}
